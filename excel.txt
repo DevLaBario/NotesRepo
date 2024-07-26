@@ -1,0 +1,80 @@
+Excel Notes 	
+G-LCGQ3MYMVR
+
+
+*** Start a new workbook ***
+
+ctrl + N 
+
+-------------------------------------------------------------------------
+
+*** Save workbook ***
+
+ctrl + S 
+
+-------------------------------------------------------------------------
+
+
+*** Cut cell content and move to another cell ***
+
+ctrl + X
+
+ctrl + V
+
+-------------------------------------------------------------------------
+
+*** Copy and Paste ***
+
+ctrl + C
+
+ctrl + V
+
+-------------------------------------------------------------------------
+
+*** Move to last cell in row ***
+
+ctrl + ↓
+
+-------------------------------------------------------------------------
+
+*** Move to last cell in row *** (This works based on direction of arrow key)
+
+ctrl + ↓
+
+-------------------------------------------------------------------------
+
+*** Select all in row/column (Based upon arrow direction) *** 
+
+ctrl + Shift + ↓ 
+
+-------------------------------------------------------------------------
+
+*** Create new sheets tab *** 
+
+Shift + F11 
+
+-------------------------------------------------------------------------
+
+*** The Big 5 Formulas *** Use CTRL + ENTER to stay in same cell for result
+
+=SUM(cell:cell)
+
+Alt + = (This will auto select all cells in column to find the sum total of)
+
+=COUNTA(cell:cell) (Counts number of cells in a range that are not empty
+
+=Average(cell:cell) (Find the average for numbers within a cell range
+
+-------------------------------------------------------------------------
+
+*** Flash Fill *** 
+
+Navigate to Data ribbon then select Flash fill after establishing list pattern
+
+-------------------------------------------------------------------------
+
+*** Flash Fill Shortcut*** 
+
+Ctrl + E
+
+-------------------------------------------------------------------------

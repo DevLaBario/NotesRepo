@@ -1,0 +1,89 @@
+Premier Pro Shortcuts
+
+***  Add Keyframe attributes to multiples clips ****
+
+- Select desired clips
+
+- Go to "edit" -> "Paste Attributes"
+
+------------------------------------------------------------------
+
+***  Show everything in timeline ****
+
+- Hit backslash ( \ )
+
+------------------------------------------------------------------
+
+
+***  Make selected section full screen ****
+
+- Hit ( ~ ) key
+
+------------------------------------------------------------------
+
+***  Add a default transition hotkey  ****
+
+- CTRL - d
+
+------------------------------------------------------------------
+
+***  Change default transition ***
+
+- In "Effects" right click transition and set as default transition
+
+------------------------------------------------------------------
+
+***  Delete clip and ripple  ****
+
+- ALT + Backspace
+
+------------------------------------------------------------------
+
+***  Ripple Trim Tool  ****
+
+- To delete clip and ripple space at play head location press 'Q' 
+
+------------------------------------------------------------------
+
+***  Ripple Trim Tool  ****
+
+- To delete clip and ripple space at play head location press 'Q' 
+
+------------------------------------------------------------------
+
+*** Create gap for clip in Timeline ***
+
+- Grab clip you want you want to insert into the timeline pressing "CTRL" to place in-between clips in desired location
+
+------------------------------------------------------------------
+
+*** Move Clip In Timeline Delete Ripple ***
+
+- CTRL + ALT 
+
+- Click clip and drag
+
+------------------------------------------------------------------
+
+*** Loop Marked section of clip ***
+
+- In your timeline mark in  - (I) then mark out mark out - (O)
+
+- Click the loop video button 
+
+------------------------------------------------------------------
+
+***  Mouse Scroll Timeline  ****
+
+- With timeline selected, hold shift and scroll with mouse wheel to move through timeline
+
+------------------------------------------------------------------
+
+***  Simplify Tracks  ****
+
+- Navigate to "Sequences" in the options bar found at the top then click "Simplify Sequence"
+
+------------------------------------------------------------------
+
+
+

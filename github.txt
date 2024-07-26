@@ -1,0 +1,59 @@
+************Initialize GIt in folder***************
+
+CREATE REPOSITORY IN GITHUB
+git add or remove origin
+git remote add origin https://github.com/item-inc/techhubNewsLetter.git [EXAMPLE]
+
+IN VS TERMINAL
+git init
+git add . 
+git commit -m " " 
+git push -u origin master
+git checkout -b <branch name>
+git branch -a
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+************ PUSH CODE TO GITHUB ***************
+
+git add .
+git commint -m "message"
+
+git push origin - [ For Item, Inc. website repo ] [This is a special example]
+
+git push -u origin < branch name > [ This is the normal Execution ]
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+************ MOVE BETWEEN BRANCHES ***************
+
+alt + a
+
+	OR
+
+git checkout <branch name>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+************ DELETE LOCALE BRANCH / PRUNE REMOTE BRANCHES  ***************
+
+git branch
+git branch -d <branch name> 
+git branch (Check to ensure list is clear)
+git branch -r 
+git remote prune origin
+git branch -r (Check to ensure list is clear)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+************ CREATE PACKAGE.JSON TO COMPILE SCSS  ***************
+
+npm init -y
+
+PACKAGE.JSON
+	"scripts": {
+    "compile:sass": "sass main.scss main.css --no-source-map --watch"
+  }
+
+
+

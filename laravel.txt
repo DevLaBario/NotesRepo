@@ -1,0 +1,27 @@
+Laravel Notes
+
+FOLDER IN A FOLDER
+
+php artsian make:controller NavController
+
+php artisan serve 
+
+php artisan optimize 
+
+-----------------------------------------------------------
+Open Live server after php artisan serve
+
+- ctrl - click 
+
+---------------------------------------------------------
+
+Create a new table to migrate to database 
+
+php artisan make:migration create_<table_names(plural)>_table
+
+
+------------------------------------------------------------
+
+.env file
+
+Use this file to connect to databases on MySQL
